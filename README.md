@@ -1,5 +1,3 @@
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hujohn1&hide_progress=true)
-
 Hi! I am a current 2nd-year CS student at Duke University in the US passionate about modern game development techniques and building commercial software. 
 
 You can often find me writing C++ or JS
