@@ -1,8 +1,8 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hujohn1&hide_progress=true)
 
-Hi! I am a current first-year CS student at Duke University passionate about Web Dev and modern game development techniques. 
+Hi! I am a current 2nd-year CS student at Duke University in the US passionate about modern game development techniques and building commercial software. 
 
-Intermediate at C++, JS, Node, Python, Express, SQLite
-Beginner at PHP, Mongo, Java, Electron, Vue
+You can often find me writing C++ or JS
+In my spare time, I have also dabbled in PHP, Mongo, Java, Electron, Vue
 
-Reach out!
+Always open to collaborating on something new!
