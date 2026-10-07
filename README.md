@@ -1,8 +1,17 @@
-Hi! I am a 3rd-year EE student at Duke University passionate about building commercial hardware, analog design, and power electronics. 
+## About Me
+Hi! I am a 3rd-year EE student at Duke University passionate about building commercial hardware, analog design, and power electronics. \
+You can often find me writing C++ or Python.\
+In a past life, I have also dabbled in PHP, Mongo, JS, Electron, and Vue. 
 
-You can often find me writing C++ or Python.
-No 1 Xilinx fan!
-In a past life, I have also dabbled in PHP, Mongo, JS, Electron, and Vue.
+## Fun Facts
+* No 1 Xilinx fan!
+* 🇨🇦
+* Quadrilingual
+
+## Interests  
+Unix \
+CAD kernels \
+DAWs and EDM 
 
 Always open to collaborating on something new!  
 
